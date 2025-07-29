@@ -39,7 +39,7 @@
 }
 input{
     flex: 1;
-    border: center;
+    border: none;
     outline: none;
     background: transparent;
     padding: 10px;
